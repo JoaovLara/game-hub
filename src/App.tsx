@@ -21,6 +21,7 @@ function App() {
         Main
       </GridItem>
     </Grid>
+    
   );
 }
 
