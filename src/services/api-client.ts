@@ -5,4 +5,4 @@ export default axios.create({
     params: {
         key: 'cb686a735d2a4addaf975fb6d84a0dda',
     }
-})
+});
