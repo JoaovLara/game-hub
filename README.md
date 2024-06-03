@@ -1,55 +1,33 @@
-# Game Hub
+# GameHub
 
-Este projeto é uma aplicação desenvolvida como objetivo de aprendizado. 
-Cria uma interface responsiva com componentes e objetos que apresentam dados de uma API de informações de jogos.
+Este projeto é uma aplicação desenvolvida com o objetivo de aprendizado, no curso de react do [codewithmosh.com](https://codewithmosh.com/). Desenvolvida com react usando typescritpt e material UI.
 
-## Instalação
+## Pré-Visualização
 
-Para instalar e executar o projeto, você precisará ter o npm instalado. Em seguida, execute o seguinte comando:
+![Pré-Visualização da interface]()
 
-```bash
-npm install game-hub
+## Instalação:
 
+1. Clone este repositório: 
+```
+git clone https://github.com/joaovlara/game-hub.git
 ```
 
-#  Versão
-A versão atual do projeto é 0.0.0.
+2. Instale as dependências e execute o programa: 
+```
+npm install
 
-#  Uso
-Após a instalação, você pode visualizar uma serie de informações sobre jogos e avaliações. Importe os componentes necessários e utilize-os conforme necessário para exibir informações de jogos em sua aplicação.
+npm run dev
+```
 
-# Dependências
-O projeto possui as seguintes dependências:
+## Utilização:
 
-@chakra-ui/react: ^2.8.2
-@emotion/react: ^11.11.4
-@emotion/styled: ^11.11.0
-axios: ^1.6.7
-framer-motion: ^11.0.8
-react: ^18.2.0
-react-dom: ^18.2.0
-react-icons: ^5.0.1
+A interface apresenta informações de uma API de jogos e disponibiliza algumas funcionalidades como busca, filtro e sugestões.
 
 
-#  DevDependencies
 
-Além das dependências de produção, o projeto possui as seguintes dependências de desenvolvimento:
+## Contato
 
-@types/react: ^18.0.27
-@types/react-dom: ^18.0.10
-@vitejs/plugin-react: ^3.1.0
-typescript: ^4.9.3
-vite: ^4.1.0
-Scripts
+Se você tiver alguma dúvida ou sugestão sobre o projeto, sinta-se à vontade para entrar em contato comigo em [joaovdelara@gmail.com](joaovdelara@gmail.com) ou através do meu [LinkedIn](https://www.linkedin.com/in/joaovlara/).
 
-O projeto inclui os seguintes scripts npm:
-
-npm run dev: Executa o projeto em modo de desenvolvimento usando Vite.
-npm run build: Compila o projeto usando TypeScript e Vite para produção.
-npm run preview: Visualiza a compilação de produção localmente.
-
-#  Licença
-Este projeto é privado e não está licenciado para uso público.
-
-#  Contato
-Para quaisquer dúvidas ou informações adicionais, entre em contato pelo email: joaovdelara@gmail.com 
+---
